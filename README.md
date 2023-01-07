@@ -27,7 +27,7 @@ Image converter to bitmap.
 - 6x 6x4x4mm buttons
 
 ## Schematic
-![The schematic](https://github.com/newmat123/MyFreedeck/blob/schematics.png?raw=true)
+![The schematic](https://github.com/newmat123/MyFreedeck/blob/main/schematics.png?raw=true)
 
 ## Finished product
-![The finished product](https://github.com/newmat123/MyFreedeck/blob/product.jpg?raw=true)
+![The finished product](https://github.com/newmat123/MyFreedeck/blob/main/product.jpg?raw=true)
