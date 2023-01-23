@@ -17,7 +17,11 @@ How to create the shourtcuts on the pc.
 https://www.youtube.com/watch?v=Oh1EkSBveIQ
 
 Image converter to bitmap.
-//https://javl.github.io/image2cpp/
+https://javl.github.io/image2cpp/
+
+Canvas size(s): 128 x 64
+Background color: black
+Invert image colors: true
 
 ## Hardware used
 - Perfboard
