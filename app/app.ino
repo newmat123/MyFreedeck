@@ -13,7 +13,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 const int screens = 6;
 int previousButtonState[screens] = {HIGH};  // for checking the state of a pushButton
-char shourtCut[screens] = {'o','p','l','j','h','y'};
+char ShortCut[screens] = {'o','p','l','j','h','y'};
 int delayTime = 250; //250 ms
 
 //link to modifyer keys
@@ -485,7 +485,7 @@ void loop() {
       
       Keyboard.press(altKey);
       Keyboard.press(ctrlKey);
-      Keyboard.press(shourtCut[i]);
+      Keyboard.press(ShortCut[i]);
       Keyboard.releaseAll();
       delay(delayTime);
     }

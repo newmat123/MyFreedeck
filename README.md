@@ -13,15 +13,15 @@ and place them manually in the code. When a screen is pressed, the arduino sends
 5. ctrl + alt + h
 6. ctrl + alt + y
 
-How to create the shourtcuts on the pc.
+How to create the shourtcuts on the pc:
 https://www.youtube.com/watch?v=Oh1EkSBveIQ
 
-Image converter to bitmap.
+Image converter to bitmap:
 https://javl.github.io/image2cpp/
 
-Canvas size(s): 128 x 64
-Background color: black
-Invert image colors: true
+Canvas size(s): 128 x 64 <br>
+Background color: black <br>
+Invert image colors: true <br>
 
 ## Hardware used
 - Perfboard
