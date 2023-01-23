@@ -6,12 +6,12 @@ This is my take on the well-known freedeck-ino (https://github.com/FreeYourStrea
 and place them manually in the code. When a screen is pressed, the arduino sends a predetermined shortcut combination that can be used to open programs or otherwise interact with the computer.
 
 ## Shourtcuts
-1. ctrl + alt + o
-2. ctrl + alt + p
-3. ctrl + alt + l
-4. ctrl + alt + j
-5. ctrl + alt + h
-6. ctrl + alt + y
+1. CTRL + ALT + O
+2. CTRL + ALT + P
+3. CTRL + ALT + L
+4. CTRL + ALT + J
+5. CTRL + ALT + H
+6. CTRL + ALT + Y
 
 How to create the shourtcuts on the pc:
 https://www.youtube.com/watch?v=Oh1EkSBveIQ
